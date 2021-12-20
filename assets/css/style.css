@@ -185,6 +185,10 @@ section {
   border-color: #39a6b2;
 }
 
+.trainers {
+  text-align: center;
+}
+
 .trainer {
   text-align: center;
   width: 900px;
@@ -252,3 +256,21 @@ section {
   margin: 30px 0 0 60px;
   color: white;
 }
+
+.contact-info h3 {
+  color: #fce138;
+  font-size: 32px;
+}
+
+.contact-info p, .contact-info adress {
+  margin: 20px 0;
+  line-height: 1.5;
+  font-size: 20px;
+  font-style: normal;
+}
+
+.contact-info a {
+  color: #fce138
+}
+
+/*Reach Out Style Ends*/
